@@ -1,0 +1,38 @@
+body {
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+    background-color: #f0f0f0;
+    margin-top:160px;
+}
+header{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+}
+
+.stopwatch {
+    text-align: center;
+    background-color: #fff;
+    margin: 0,10%,10%,10%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.time {
+    font-size: 36px;
+}
+
+button {
+    margin: 10px;
+    font-size: 16px;
+    padding: 10px 20px;
+}
+
+#laps {
+    text-align: left;
+    margin-top: 10px;
+}
