@@ -1,2 +1,1 @@
-# PRODIGY_WD_02
 STOPWATCH Web Application
